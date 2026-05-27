@@ -62,6 +62,9 @@ Copyright &copy; 2026
       { "Avaliação" = "t1/evaluation.md" },
       { "Recursos" = "t1/resources.md" },
     ]},
+    { "T2"= [
+      { "Descrição" = "t2/description.md" },
+    ]},
    ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
